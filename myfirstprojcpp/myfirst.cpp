@@ -1,6 +1,9 @@
+// myfirst.cpp -- displays a message on the screen
+
 #include <iostream>
 
-int main() {
+int main()
+{
     using namespace std;
     cout << "Come up and C++ me some time.";
     cout << endl;
