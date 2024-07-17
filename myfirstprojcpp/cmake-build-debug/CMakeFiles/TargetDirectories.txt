@@ -1,3 +1,0 @@
-/home/destress/myfirstprojcpp/cmake-build-debug/CMakeFiles/myfirstprojcpp.dir
-/home/destress/myfirstprojcpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/destress/myfirstprojcpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

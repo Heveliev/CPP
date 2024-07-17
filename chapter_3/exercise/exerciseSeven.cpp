@@ -21,4 +21,6 @@ int main()
     cout << "You’ve driven" << " " << consumption << " "
          << "miles per gallon of fuel";
 
+    return 0;
+
 }
